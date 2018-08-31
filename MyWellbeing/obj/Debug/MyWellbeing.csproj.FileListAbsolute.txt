@@ -1,0 +1,60 @@
+C:\Users\t976626\Desktop\New folder\Wellbeing App\MyWellbeing\MyWellbeing\bin\Debug\MyWellbeing.exe.config
+C:\Users\t976626\Desktop\New folder\Wellbeing App\MyWellbeing\MyWellbeing\bin\Debug\MyWellbeing.exe
+C:\Users\t976626\Desktop\New folder\Wellbeing App\MyWellbeing\MyWellbeing\bin\Debug\MyWellbeing.pdb
+C:\Users\t976626\Desktop\New folder\Wellbeing App\MyWellbeing\MyWellbeing\obj\Debug\MyWellbeing.csprojAssemblyReference.cache
+C:\Users\t976626\Desktop\New folder\Wellbeing App\MyWellbeing\MyWellbeing\obj\Debug\App.g.cs
+C:\Users\t976626\Desktop\New folder\Wellbeing App\MyWellbeing\MyWellbeing\obj\Debug\MyWellbeing_MarkupCompile.cache
+C:\Users\t976626\Desktop\New folder\Wellbeing App\MyWellbeing\MyWellbeing\obj\Debug\MyWellbeing_MarkupCompile.lref
+C:\Users\t976626\Desktop\New folder\Wellbeing App\MyWellbeing\MyWellbeing\obj\Debug\MyWellbeing.g.resources
+C:\Users\t976626\Desktop\New folder\Wellbeing App\MyWellbeing\MyWellbeing\obj\Debug\MyWellbeing.Properties.Resources.resources
+C:\Users\t976626\Desktop\New folder\Wellbeing App\MyWellbeing\MyWellbeing\obj\Debug\MyWellbeing.csproj.GenerateResource.cache
+C:\Users\t976626\Desktop\New folder\Wellbeing App\MyWellbeing\MyWellbeing\obj\Debug\MyWellbeing.csproj.CoreCompileInputs.cache
+C:\Users\t976626\Desktop\New folder\Wellbeing App\MyWellbeing\MyWellbeing\obj\Debug\MyWellbeing.exe
+C:\Users\t976626\Desktop\New folder\Wellbeing App\MyWellbeing\MyWellbeing\obj\Debug\MyWellbeing.pdb
+C:\Users\t976626\Desktop\New folder\Wellbeing App\MyWellbeing\MyWellbeing\obj\Debug\mainwindow.g.cs
+C:\Users\t976626\Desktop\New folder\Wellbeing App\MyWellbeing\MyWellbeing\obj\Debug\mainwindow.baml
+C:\Users\t976626\Desktop\New folder\Wellbeing App\MyWellbeing\MyWellbeing\obj\Debug\Welcome.g.cs
+C:\Users\t976626\Desktop\New folder\Wellbeing App\MyWellbeing\MyWellbeing\obj\Debug\Welcome.baml
+C:\Users\t976626\Desktop\New folder\Wellbeing App\MyWellbeing\MyWellbeing\obj\Debug\SelectionPage.g.cs
+C:\Users\t976626\Desktop\New folder\Wellbeing App\MyWellbeing\MyWellbeing\obj\Debug\SecondPage.g.cs
+C:\Users\t976626\Desktop\New folder\Wellbeing App\MyWellbeing\MyWellbeing\obj\Debug\SecondPage.baml
+C:\Users\Mr. Oladipo\Desktop\Wellbeing App\MyWellbeing\MyWellbeing\bin\Debug\MyWellbeing.exe.config
+C:\Users\Mr. Oladipo\Desktop\Wellbeing App\MyWellbeing\MyWellbeing\bin\Debug\MyWellbeing.exe
+C:\Users\Mr. Oladipo\Desktop\Wellbeing App\MyWellbeing\MyWellbeing\bin\Debug\MyWellbeing.pdb
+C:\Users\Mr. Oladipo\Desktop\Wellbeing App\MyWellbeing\MyWellbeing\obj\Debug\mainwindow.g.cs
+C:\Users\Mr. Oladipo\Desktop\Wellbeing App\MyWellbeing\MyWellbeing\obj\Debug\SecondPage.g.cs
+C:\Users\Mr. Oladipo\Desktop\Wellbeing App\MyWellbeing\MyWellbeing\obj\Debug\Welcome.g.cs
+C:\Users\Mr. Oladipo\Desktop\Wellbeing App\MyWellbeing\MyWellbeing\obj\Debug\App.g.cs
+C:\Users\Mr. Oladipo\Desktop\Wellbeing App\MyWellbeing\MyWellbeing\obj\Debug\MyWellbeing_MarkupCompile.cache
+C:\Users\Mr. Oladipo\Desktop\Wellbeing App\MyWellbeing\MyWellbeing\obj\Debug\MyWellbeing_MarkupCompile.lref
+C:\Users\Mr. Oladipo\Desktop\Wellbeing App\MyWellbeing\MyWellbeing\obj\Debug\mainwindow.baml
+C:\Users\Mr. Oladipo\Desktop\Wellbeing App\MyWellbeing\MyWellbeing\obj\Debug\SecondPage.baml
+C:\Users\Mr. Oladipo\Desktop\Wellbeing App\MyWellbeing\MyWellbeing\obj\Debug\Welcome.baml
+C:\Users\Mr. Oladipo\Desktop\Wellbeing App\MyWellbeing\MyWellbeing\obj\Debug\MyWellbeing.g.resources
+C:\Users\Mr. Oladipo\Desktop\Wellbeing App\MyWellbeing\MyWellbeing\obj\Debug\MyWellbeing.Properties.Resources.resources
+C:\Users\Mr. Oladipo\Desktop\Wellbeing App\MyWellbeing\MyWellbeing\obj\Debug\MyWellbeing.csproj.GenerateResource.Cache
+C:\Users\Mr. Oladipo\Desktop\Wellbeing App\MyWellbeing\MyWellbeing\obj\Debug\MyWellbeing.csproj.CoreCompileInputs.cache
+C:\Users\Mr. Oladipo\Desktop\Wellbeing App\MyWellbeing\MyWellbeing\obj\Debug\MyWellbeing.exe
+C:\Users\Mr. Oladipo\Desktop\Wellbeing App\MyWellbeing\MyWellbeing\obj\Debug\MyWellbeing.pdb
+C:\Users\Mr. Oladipo\Desktop\Wellbeing App\MyWellbeing\MyWellbeing\obj\Debug\MyWellbeing.csprojResolveAssemblyReference.cache
+C:\Users\t976626\OneDrive - Syngenta\Documents\New folder\New Wellbeing App\MyWellbeing\MyWellbeing\obj\Debug\MyWellbeing.csprojAssemblyReference.cache
+C:\Users\t976626\OneDrive - Syngenta\Documents\New folder\New Wellbeing App\MyWellbeing\MyWellbeing\obj\Debug\mainwindow.g.cs
+C:\Users\t976626\OneDrive - Syngenta\Documents\New folder\New Wellbeing App\MyWellbeing\MyWellbeing\obj\Debug\SecondPage.g.cs
+C:\Users\t976626\OneDrive - Syngenta\Documents\New folder\New Wellbeing App\MyWellbeing\MyWellbeing\obj\Debug\Welcome.g.cs
+C:\Users\t976626\OneDrive - Syngenta\Documents\New folder\New Wellbeing App\MyWellbeing\MyWellbeing\obj\Debug\App.g.cs
+C:\Users\t976626\OneDrive - Syngenta\Documents\New folder\New Wellbeing App\MyWellbeing\MyWellbeing\obj\Debug\MyWellbeing_MarkupCompile.cache
+C:\Users\t976626\OneDrive - Syngenta\Documents\New folder\New Wellbeing App\MyWellbeing\MyWellbeing\obj\Debug\MyWellbeing_MarkupCompile.lref
+C:\Users\t976626\OneDrive - Syngenta\Documents\New folder\New Wellbeing App\MyWellbeing\MyWellbeing\obj\Debug\MyWellbeing.pdb
+C:\Users\t976626\OneDrive - Syngenta\Documents\New folder\New Wellbeing App\MyWellbeing\MyWellbeing\bin\Debug\MyWellbeing.exe.config
+C:\Users\t976626\OneDrive - Syngenta\Documents\New folder\New Wellbeing App\MyWellbeing\MyWellbeing\bin\Debug\MyWellbeing.exe
+C:\Users\t976626\OneDrive - Syngenta\Documents\New folder\New Wellbeing App\MyWellbeing\MyWellbeing\bin\Debug\MyWellbeing.pdb
+C:\Users\t976626\OneDrive - Syngenta\Documents\New folder\New Wellbeing App\MyWellbeing\MyWellbeing\obj\Debug\mainwindow.baml
+C:\Users\t976626\OneDrive - Syngenta\Documents\New folder\New Wellbeing App\MyWellbeing\MyWellbeing\obj\Debug\SecondPage.baml
+C:\Users\t976626\OneDrive - Syngenta\Documents\New folder\New Wellbeing App\MyWellbeing\MyWellbeing\obj\Debug\Welcome.baml
+C:\Users\t976626\OneDrive - Syngenta\Documents\New folder\New Wellbeing App\MyWellbeing\MyWellbeing\obj\Debug\MyWellbeing.g.resources
+C:\Users\t976626\OneDrive - Syngenta\Documents\New folder\New Wellbeing App\MyWellbeing\MyWellbeing\obj\Debug\MyWellbeing.Properties.Resources.resources
+C:\Users\t976626\OneDrive - Syngenta\Documents\New folder\New Wellbeing App\MyWellbeing\MyWellbeing\obj\Debug\MyWellbeing.csproj.GenerateResource.cache
+C:\Users\t976626\OneDrive - Syngenta\Documents\New folder\New Wellbeing App\MyWellbeing\MyWellbeing\obj\Debug\MyWellbeing.csproj.CoreCompileInputs.cache
+C:\Users\t976626\OneDrive - Syngenta\Documents\New folder\New Wellbeing App\MyWellbeing\MyWellbeing\obj\Debug\MyWellbeing.exe
+C:\Users\t976626\OneDrive - Syngenta\Documents\New folder\New Wellbeing App\MyWellbeing\MyWellbeing\obj\Debug\Thirdpage.g.cs
+C:\Users\t976626\OneDrive - Syngenta\Documents\New folder\New Wellbeing App\MyWellbeing\MyWellbeing\obj\Debug\Thirdpage.baml
